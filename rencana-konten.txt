@@ -1,6 +1,7 @@
 RENCANA KONTEN ARIS
 - Javascript
   - ES6
+  - Fundamental
 - PHP 
 - Interview
 - Vlog
