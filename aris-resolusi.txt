@@ -1,4 +1,5 @@
-ARIS RESOLUSI
+RENCANA ARIS KEDEPAN
 - Belajar Git & GitHub
 - Belajar Laravel 9
 - Mengupgrade SiM-PD dengan Laravel 9
+- Mengupgrade Jurnal Mengajar dengan fitur Login dan Print
