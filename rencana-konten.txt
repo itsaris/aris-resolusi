@@ -2,6 +2,7 @@ RENCANA KONTEN ARIS
 - Javascript
   - ES6
     ^ Vue
+    ^ React
   - Fundamental
 - PHP 
 - PHP Framework
