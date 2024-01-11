@@ -1,3 +1,4 @@
 ARIS RESOLUSI
 - Belajar Git & GitHub
 - Belajar Laravel 9
+- Mengupgrade SiM-PD dengan Laravel 9
