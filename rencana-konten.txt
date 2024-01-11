@@ -1,12 +1,14 @@
 RENCANA KONTEN ARIS
 - Javascript
   - ES6
+    ^ React
+- PHP Framework
+    ^ Bootstrap
     ^ Vue
     ^ React
-  - Fundamental
+- Fundamental
 - PHP 
 - PHP Framework
   ^ Laravel
 - Interview
 - Vlog
-- 
